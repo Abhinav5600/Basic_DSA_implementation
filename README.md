@@ -36,6 +36,10 @@ This project demonstrates the implementation of fundamental data structures in C
 - Queue: 5 6 7
 - Queue: 6 7
 File Content: this is file handling in C++
+
+## 📸 Output Screenshot
+
+![Program Output](images/output.png)
   
 ## ▶️ How to Run
 ```bash
