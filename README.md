@@ -26,6 +26,16 @@ This project demonstrates the implementation of fundamental data structures in C
 - Linear data structures
 - File I/O operations
 - Basic algorithmic design
+
+## 📌 Sample Output
+- Singly Linked List: 30 -> 20 -> 10 -> NULL
+- Doubly Linked List (Forward): 300 <-> 200 <-> 100 <-> NULL
+- Doubly Linked List (Backward): 100 <-> 200 <-> 300 <-> NULL
+- Stack: 3 2 1
+- Stack: 2 1
+- Queue: 5 6 7
+- Queue: 6 7
+File Content: this is file handling in C++
   
 ## ▶️ How to Run
 ```bash
